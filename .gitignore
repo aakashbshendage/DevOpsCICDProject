@@ -1,0 +1,17 @@
+HELP.md
+
+
+### STS ###
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+
+
+### VS Code ###
+.vscode/
