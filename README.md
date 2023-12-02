@@ -6,4 +6,4 @@ Tools we will be using in the project:
 3.	Docker
 4.	Jenkins
 ![image](https://github.com/aakashbshendage/DevOpsCICDProject/assets/144535729/18c57202-8f1d-4efd-9362-43072a437f9b)
-[DevOps Project 1.docx](https://github.com/aakashbshendage/DevOpsCICDProject/files/13533942/DevOps.Project.1.docx)
+[DevOps Project 1.docx](https://github.com/aakashbshendage/DevOpsCICDProject/files/13533951/DevOps.Project.1.docx)
