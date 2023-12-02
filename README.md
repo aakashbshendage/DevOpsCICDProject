@@ -6,7 +6,7 @@ Tools we will be using in the project:
 3.	Docker
 4.	Jenkins
 
-   The following block diagram for this project
+   The following block diagram for this project.
    
 ![image](https://github.com/aakashbshendage/DevOpsCICDProject/assets/144535729/18c57202-8f1d-4efd-9362-43072a437f9b)
 
