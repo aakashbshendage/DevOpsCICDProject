@@ -12,4 +12,4 @@ Tools we will be using in the project:
 
 You can follow this documentation to perform the steps for reference.
 
-[DevOps Project 1.docx](https://github.com/aakashbshendage/DevOpsCICDProject/files/13533951/DevOps.Project.1.docx)
+[DevOps Project 1.docx](https://github.com/aakashbshendage/DevOpsCICDProject/files/13808334/DevOps.Project.1.docx)
